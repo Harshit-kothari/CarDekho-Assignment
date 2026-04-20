@@ -1,8 +1,13 @@
 import os
+import sys
 import json
 import tempfile
 import re
 from typing import List, Optional, Dict, Any
+
+# Ensure Vercel can find the local config.py file
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
