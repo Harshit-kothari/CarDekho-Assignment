@@ -1,0 +1,28 @@
+{
+  "user_0rrm719wr": {
+    "budget_min_lakh": null,
+    "budget_max_lakh": null,
+    "preferred_brands": [],
+    "excluded_brands": [],
+    "preferred_body_types": [],
+    "preferred_fuel": [],
+    "transmission_pref": null,
+    "primary_use": null,
+    "seating_max": null,
+    "mileage_priority": false,
+    "extra_focus": null,
+    "turn_count": 0,
+    "dialog_step": 0,
+    "answered_steps": []
+  },
+  "user_ip15pe3oo": {
+    "budget_max_lakh": null,
+    "preferred_brands": [],
+    "preferred_body_types": [],
+    "preferred_fuel": [],
+    "safety_priority": false,
+    "seating_min": null,
+    "mileage_priority": false,
+    "turn_count": 1
+  }
+}
